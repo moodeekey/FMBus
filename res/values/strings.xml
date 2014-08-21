@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FMBus</string>
+    <string name="action_info">About</string>
+    <string name="title_activity_schedule_screen">Schedule</string>
+    <string name="title_activity_info_screen">About FMBus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update Data</string>
+    <string name="action_select_routes">Select to display</string>
+    <string name="label_schedule">Schedule</string>
+    <string name="label_map">Map</string>
+    <string name="label_saved">Saved Times</string>
+    <string name="dialog_ok">OK</string>
+    <string name="network_error">Check your internet connection</string>
+    <string name="db_error">You need to download app data first</string>
+    <string name="add_route">New Route</string>
+    <string name="clear_saved">Clear Entries</string>
+    <string name="title_activity_saved_routes_screen">Saved Routes</string>
+    <string name="title_activity_add_route_popup">Add Route</string>
+    <string name="focus_on_fargo">Focus on F/M area</string>
+    <string name="saved_route">%1$s will arrive at %2$s %3$s</string>
+    <string name="title_activity_map_screen">Map</string>
+    <string name="title_activity_route_selector">RouteSelector</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="updates">Initial Version</string>
+    <string name="eula">
+        PLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+        IF YOU DO NOT AGREE WITH SOME OF THE TERMS, DO NOT USE THE SOFTWARE.
+\n
+        1. The Author is not responsible for any damage, loss or inconvenience arising from the usage of this software.
+\n
+        2. Software is free to use, however distribution is prohibited unless Dmitrii Mudrechenko(The Author) authorized you to do so.
+\n
+        3. Author does not own any of the graphical material used in the application
+\n
+           Used Resources:
+        \n
+                Graficheria by Stefania Servidio. Licensed under Creative Commons(3.0)
+          \n
+                http://creativecommons.org/licenses/by/3.0/legalcode
+\n
+                Ballicons  by Nick Frost. Licensed under Creative Commons(3.0)
+  \n
+                http://creativecommons.org/licenses/by/3.0/legalcode
+\n
+                Snipicons by Snip Master. Licensed under Creative Commons (Attribution-Noncommercial 3.0 Unported)
+  \n
+                http://creativecommons.org/licenses/by-nc/3.0/legalcode
+        \n
+        4. Software uses data that are available for public use.
+\n
+        5. Author is not affiliated with companies.
+    </string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_grey_background">#F1F1F1</color>
+    <color name="menu_white_background">#F1F1F1</color>
+    <color name="action_bar">#4285F4</color>
+    <color name="route_1">#C781D9</color>
+    <color name="route_2">#015486</color>
+    <color name="route_3">#FFB51E</color>
+    <color name="route_4">#155638</color>
+    <color name="route_5">#E9072C</color>
+    <color name="route_6">#B2522A</color>
+    <color name="route_7">#02A1E2</color>
+    <color name="route_8">#FC1187</color>
+    <color name="route_9">#8BD751</color>
+    <color name="route_11">#992EA0</color>
+    <color name="route_13">#8BD751</color>
+    <color name="route_13u">#007042</color>
+    <color name="route_14">#C80F2E</color>
+    <color name="route_15">#F1B435</color>
+    <color name="route_16">#00A4E3</color>
+    <color name="route_17">#FEE300</color>
+    <color name="route_18">#7F5211</color>
+    <color name="route_23">#C781D9</color>
+    <color name="route_31">#FDDB00</color>
+    <color name="route_32">#015486</color>
+    <color name="route_33">#FFC72C</color>
+    <color name="route_34">#B91A36</color>
+    <color name="route_35">#F40071</color>
+</resources>

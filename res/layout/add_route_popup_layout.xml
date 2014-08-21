@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/menu_grey_background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+            <Spinner
+                android:id="@+id/spinner_route"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                />
+            <Spinner
+                android:id="@+id/spinner_stop"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"/>
+            <ImageButton
+                android:id="@+id/button_add_fav"
+                android:background="@null"
+                android:src="@drawable/button_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="70dp"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                android:adjustViewBounds="true"
+                />
+        </LinearLayout>

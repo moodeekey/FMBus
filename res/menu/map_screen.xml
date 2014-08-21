@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_select_routes_display"
+        android:title="@string/action_select_routes"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_center_at_fargo"
+        android:title="@string/focus_on_fargo"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_action_location_found"
+        android:showAsAction="ifRoom" />
+</menu>

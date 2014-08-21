@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.moodeekey.fmbus.schedule_screen.ScheduleScreen" >
+    <item
+        android:title="Go To Map"
+        android:id="@+id/action_show_route"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_map"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_update"
+        android:title="@string/action_update"
+        android:orderInCategory="200"
+        android:icon="@drawable/ic_action_download"
+        android:showAsAction="ifRoom" />
+</menu>

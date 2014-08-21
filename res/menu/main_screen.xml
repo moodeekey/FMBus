@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainScreen" >
+    <item android:id="@+id/action_update"
+        android:title="@string/action_update"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_download"
+        app:showAsAction="ifRoom" />
+</menu>
